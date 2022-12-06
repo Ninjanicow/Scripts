@@ -1,3 +1,4 @@
+-- ONLY WORKING FOR THIS GAME https://www.roblox.com/games/10980368588/Booga-Olympics-2019-Summer
 for x = 1, 1 do -- amount of items to give x7
 	local args = {
 		[1] = "Cooked Morsel Item",
