@@ -1,41 +1,8 @@
-# Compiled Lua sources
-luac.out
-
-# luarocks build files
-*.src.rock
-*.zip
-*.tar.gz
-
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
+for x = 1, 1 do -- amount of items to give x7
+	local args = {
+		[1] = "Cooked Morsel Item",
+		[2] = "____" -- Item you want to spawn
+	}
+		game:GetService("ReplicatedStorage").Events.PurchaseFromShop:FireServer(unpack(args))
+	task.wait()
+end
