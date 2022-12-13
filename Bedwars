@@ -1,6 +1,7 @@
 VAPE
 loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
 
+--join me discord pls discord.gg/4cJRywQffK
 
 SAPE
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vodxn/sape/main/Initiate.lua"))()
