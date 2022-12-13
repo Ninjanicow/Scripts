@@ -1,3 +1,4 @@
 --GAME: https://web.roblox.com/games/10631384212/UPDATE-Treasure-Hunt-Islands
+--join me discord pls discord.gg/4cJRywQffK
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/uzu01/public/main/loader.lua"))() 
