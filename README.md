@@ -1,4 +1,4 @@
-Scripts for you to use have fun
+I DO NOT OWN ANY OF THESE SCRIPTS THIS IS JUST A EASY WAY TO ACCESS ALMOST ANY SCRIPT
 
-
-Nebula ```loadstring(game:HttpGet("https://raw.githubusercontent.com/Ninjanicow/Scripts/main/Nebula"))()```
+Join my discord for suggestions
+https://discord.gg/rDPFsRNCyz
