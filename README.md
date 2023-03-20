@@ -1,4 +1,5 @@
-I DO NOT OWN ANY OF THESE SCRIPTS THIS IS JUST A EASY WAY TO ACCESS ALMOST ANY SCRIPT
+**I DO NOT OWN ANY OF THESE SCRIPTS**
+THIS IS JUST A EASY WAY FOR ME TO ACCSESS SCRIPTS
 
-Join my discord for suggestions
+Join my discord for suggestions/takedown requests 
 https://discord.gg/rDPFsRNCyz
