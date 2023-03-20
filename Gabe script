@@ -1,0 +1,7 @@
+--Supported Games press CTRL + F to find your game: https://gabescripts.com/supported.php
+--Discord Server: https://gabescripts.com/discord.php
+--Get Key if my key does not work for you: https://gabescripts.com/getkey.php 
+--Youtube Channel: https://www.youtube.com/@gabescripts```
+
+getgenv().Key = "9c5b743877fea75ca3b82fee225c4af237739cc0";
+loadstring(game:HttpGet("https://gabescripts.com/access.lua"))()
